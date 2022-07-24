@@ -21,5 +21,3 @@
 [![](https://visitcount.itsvg.in/api?id=srishti2801&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![GitHub Activity Graph](https://srishti2801/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
-
