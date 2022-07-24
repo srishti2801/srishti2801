@@ -1,8 +1,5 @@
 ### Hi, I'm Srishti! 👋
 
-<!--
-**srishti2801/srishti2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering** <br>   with specializations in **Data Science and Artificial Intelligence**<br>🌱 I am currently learning python<br>🎯 My goal is to contribute to **open source projects**
 
@@ -24,4 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=srishti2801&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Github Activity Graph]
-(https://cdn.srishti2801.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+(https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
